@@ -36,14 +36,3 @@ The Personal Task Manager is a Laravel web application that helps users manage t
 * HTML
 * CSS
 * Blade
-
-## Installation
-
-1. Clone or download the repository.
-2. Run `composer install`.
-3. Copy `.env.example` to `.env`.
-4. Configure the MySQL database.
-5. Run `php artisan key:generate`.
-6. Run `php artisan migrate`.
-7. Run `php artisan serve`.
-8. Open `http://127.0.0.1:8000`.
